@@ -1,0 +1,30 @@
+body {
+  background-image: url("../img/borobudur.jpg");
+}
+div {
+  width : 60%;
+  height : 40%;
+  background-color: white;
+  background-image: url("../img/avocado.jpg");
+  background-repeat: repeat-y;
+  border: 1px solid black;
+  overflow: scroll;
+}
+p {
+  font-size: 21px;
+  font-weight: bold;
+}
+.satu{
+  text-align: right;
+  color: blue;
+}
+.dua{
+  text-align: left;
+  color: green;
+  padding-right: 20px;
+}
+.tiga{
+  text-align: right;
+  color: red;
+  padding-right: 50px;
+}
